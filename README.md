@@ -1,12 +1,24 @@
-# Konstantinos-Kallias
+# Eniac Business Analysis
 
-## Summary
-Case study Eniac: Eniac is an online marketplace specializing in Apple-compatible accessories.
-It was founded ten years ago in Spain and has since grown and expanded to other neighboring countries.
-## Languages and Libraries Used
-We used SQL and Tableau and we made the presentation on Google slides.
-## Key Learnings
-Through the Eniac project, I honed my analytical and problem-solving skills, transforming raw data into actionable insights. 
-I practiced effective communication by tailoring complex technical findings into clear, engaging narratives for non-technical stakeholders. 
-## Additional Reflections
-This reinforced the importance of storytelling in data science, bridging the gap between technical expertise and decision-making.
+A business analysis case study for Eniac, an online marketplace specialising in Apple-compatible accessories.
+
+## Objective
+
+The project uses data to support business decision-making and translates technical findings into clear recommendations for a non-technical audience.
+
+## Tools
+
+- SQL
+- Tableau
+- Google Slides
+
+## Approach
+
+- Explored and queried the available business data
+- Identified patterns relevant to the commercial question
+- Built visualisations to communicate the analysis
+- Presented the conclusions in a concise, business-focused format
+
+## Key learning
+
+This case study strengthened my analytical problem-solving and data storytelling skills. It also reinforced the importance of connecting technical analysis with practical business decisions.
